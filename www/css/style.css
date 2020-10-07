@@ -1,9 +1,42 @@
 /**/
 button {
-  margin-top:20px;
+  margin-top:50px;
 }
 
 .imagem{
   height: 200px;
   width: 100%;
+  margin-top: 0px;
+}
+
+body{
+  background-color: rgb(53, 53, 53);
+}
+
+.titulo{
+
+margin-top: 30px;
+
+
+}
+
+.logo{
+background-image: url("qr.png");
+}
+
+
+ 
+.qr {
+   
+background: url('img/camera.png') ;
+height:100px;
+width:120px;
+border: none;
+}
+
+.h1{
+  margin-top: 10px;
+  font-size: 20px;
+  color: white;
+
 }
